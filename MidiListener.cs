@@ -1,5 +1,6 @@
 ﻿using NAudio.Midi;
 
+// This class listens for MIDI input
 public class MidiListener
 {
     private MidiIn midiIn;
